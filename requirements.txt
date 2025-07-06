@@ -1,0 +1,6 @@
+pyside6
+opencv
+opencv-python
+pyzbar
+qrcode
+sqlite3
